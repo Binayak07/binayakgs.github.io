@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @binayakgourishankar
+- 👀 I’m interested in Backend Engineering using Nodejs
+- 🌱 I’m currently learning GrpahQL & Prisma
+- 💞️ I’m looking to learn CI/CD, System Design
+- 📫 How to reach me binayakgourishankar@gmail.com
